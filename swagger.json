@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/luca-regne/swagger-ui-xss/main/swagger.yml ",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/luca-regne/swagger-ui-xss/main/swagger.yml ",
+            "name": "XSS"
+        }
+    ]
+}
